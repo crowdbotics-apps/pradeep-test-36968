@@ -1282,7 +1282,10 @@
 "@screens/contact-us@file:./screens/contact-us":
   version "1.0.0"
 
-"@screens/file-converter@file:./screens/file-converter/":
+"@screens/file-conversion@file:./screens/file-conversion/":
+  version "1.0.0"
+
+"@screens/file-converter@file:./screens/file-converter":
   version "1.0.0"
 
 "@screens/support-faq@file:./screens/support-faq":
