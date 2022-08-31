@@ -60,7 +60,6 @@ This react_native application was built with Crowdbotics www.crowdbotics.com
 This section will show any installed modules you add from the Storyboard Modules section.
 - [screen-support-faq](screens/support-faq)
 - [screen-contact-us](screens/contact-us)
-- [screen-chat-listing](screens/chat-listing)
 - [react-native-social-login](modules/social-login)
 - [screen-file-format-conversion](screens/file-converter)
 
