@@ -1233,9 +1233,6 @@
     redux-thunk "^2.4.1"
     reselect "^4.1.5"
 
-"@screens/contact-us@file:./screens/contact-us":
-  version "1.0.0"
-
 "@screens/file-converter@file:./screens/file-converter":
   version "1.0.0"
 
