@@ -18,7 +18,6 @@
     "@reduxjs/toolkit": "^1.5.0",
     "@screens/contact-us": "file:./screens/contact-us/",
     "@screens/file-converter": "file:./screens/file-converter/",
-    "@screens/support-faq": "file:./screens/support-faq/",
     "axios": "^0.21.1",
     "react": "17.0.1",
     "react-dom": "^18.2.0",
